@@ -20,7 +20,7 @@ function App() {
   }, []);
   return (
     <div>
-      <h1>📺 movie app list 🎥</h1>
+      <h1>📺 movie app lists 🎥</h1>
       {loading ? (
         <h3>Loading... plz wait</h3>
       ) : (
